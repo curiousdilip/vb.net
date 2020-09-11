@@ -1,0 +1,16 @@
+C:\Users\ZSangLien\source\repos\Practical S2\Practical S2\bin\Debug\Practical S2.exe.config
+C:\Users\ZSangLien\source\repos\Practical S2\Practical S2\bin\Debug\Practical S2.exe
+C:\Users\ZSangLien\source\repos\Practical S2\Practical S2\bin\Debug\Practical S2.pdb
+C:\Users\ZSangLien\source\repos\Practical S2\Practical S2\bin\Debug\Practical S2.xml
+C:\Users\ZSangLien\source\repos\Practical S2\Practical S2\obj\Debug\Practical S2.vbprojAssemblyReference.cache
+C:\Users\ZSangLien\source\repos\Practical S2\Practical S2\obj\Debug\Practical_S2.Form1.resources
+C:\Users\ZSangLien\source\repos\Practical S2\Practical S2\obj\Debug\Practical_S2.Form2.resources
+C:\Users\ZSangLien\source\repos\Practical S2\Practical S2\obj\Debug\Practical_S2.Resources.resources
+C:\Users\ZSangLien\source\repos\Practical S2\Practical S2\obj\Debug\Practical S2.vbproj.GenerateResource.cache
+C:\Users\ZSangLien\source\repos\Practical S2\Practical S2\obj\Debug\Practical S2.vbproj.CoreCompileInputs.cache
+C:\Users\ZSangLien\source\repos\Practical S2\Practical S2\obj\Debug\Practical S2.exe
+C:\Users\ZSangLien\source\repos\Practical S2\Practical S2\obj\Debug\Practical S2.xml
+C:\Users\ZSangLien\source\repos\Practical S2\Practical S2\obj\Debug\Practical S2.pdb
+C:\Users\ZSangLien\source\repos\Practical S2\Practical S2\obj\Debug\Practical_S2.Form3.resources
+C:\Users\ZSangLien\source\repos\Practical S2\Practical S2\obj\Debug\Practical_S2.Form4.resources
+C:\Users\ZSangLien\source\repos\Practical S2\Practical S2\obj\Debug\Practical_S2.Form5.resources

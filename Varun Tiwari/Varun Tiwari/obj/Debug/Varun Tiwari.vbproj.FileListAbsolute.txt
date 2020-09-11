@@ -1,0 +1,17 @@
+C:\Users\ZSangLien\source\repos\Varun Tiwari\Varun Tiwari\bin\Debug\Varun Tiwari.exe.config
+C:\Users\ZSangLien\source\repos\Varun Tiwari\Varun Tiwari\bin\Debug\Varun Tiwari.exe
+C:\Users\ZSangLien\source\repos\Varun Tiwari\Varun Tiwari\bin\Debug\Varun Tiwari.pdb
+C:\Users\ZSangLien\source\repos\Varun Tiwari\Varun Tiwari\bin\Debug\Varun Tiwari.xml
+C:\Users\ZSangLien\source\repos\Varun Tiwari\Varun Tiwari\obj\Debug\Varun Tiwari.vbprojAssemblyReference.cache
+C:\Users\ZSangLien\source\repos\Varun Tiwari\Varun Tiwari\obj\Debug\Varun_Tiwari.Form1.resources
+C:\Users\ZSangLien\source\repos\Varun Tiwari\Varun Tiwari\obj\Debug\Varun_Tiwari.Resources.resources
+C:\Users\ZSangLien\source\repos\Varun Tiwari\Varun Tiwari\obj\Debug\Varun Tiwari.vbproj.GenerateResource.cache
+C:\Users\ZSangLien\source\repos\Varun Tiwari\Varun Tiwari\obj\Debug\Varun Tiwari.vbproj.CoreCompileInputs.cache
+C:\Users\ZSangLien\source\repos\Varun Tiwari\Varun Tiwari\obj\Debug\Varun Tiwari.exe
+C:\Users\ZSangLien\source\repos\Varun Tiwari\Varun Tiwari\obj\Debug\Varun Tiwari.xml
+C:\Users\ZSangLien\source\repos\Varun Tiwari\Varun Tiwari\obj\Debug\Varun Tiwari.pdb
+C:\Users\ZSangLien\source\repos\Varun Tiwari\Varun Tiwari\obj\Debug\Varun_Tiwari.Form2.resources
+C:\Users\ZSangLien\source\repos\Varun Tiwari\Varun Tiwari\obj\Debug\Varun_Tiwari.Form3.resources
+C:\Users\ZSangLien\source\repos\Varun Tiwari\Varun Tiwari\obj\Debug\Varun_Tiwari.Form4.resources
+C:\Users\ZSangLien\source\repos\Varun Tiwari\Varun Tiwari\obj\Debug\Varun_Tiwari.Form5.resources
+C:\Users\ZSangLien\source\repos\Varun Tiwari\Varun Tiwari\obj\Debug\Varun_Tiwari.Form6.resources

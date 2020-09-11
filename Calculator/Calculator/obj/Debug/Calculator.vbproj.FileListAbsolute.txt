@@ -1,0 +1,14 @@
+C:\Users\ZSangLien\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\ZSangLien\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\ZSangLien\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\ZSangLien\source\repos\Calculator\Calculator\bin\Debug\Calculator.xml
+C:\Users\ZSangLien\source\repos\Calculator\Calculator\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\ZSangLien\source\repos\Calculator\Calculator\obj\Debug\Calculator.vbprojAssemblyReference.cache
+C:\Users\ZSangLien\source\repos\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\ZSangLien\source\repos\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+C:\Users\ZSangLien\source\repos\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.cache
+C:\Users\ZSangLien\source\repos\Calculator\Calculator\obj\Debug\Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\ZSangLien\source\repos\Calculator\Calculator\obj\Debug\Calculator.vbproj.CopyComplete
+C:\Users\ZSangLien\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\ZSangLien\source\repos\Calculator\Calculator\obj\Debug\Calculator.xml
+C:\Users\ZSangLien\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb

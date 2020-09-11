@@ -1,0 +1,27 @@
+C:\Users\ZSangLien\source\repos\Digital Clock\Digital Clock\bin\Debug\Digital Clock.exe.config
+C:\Users\ZSangLien\source\repos\Digital Clock\Digital Clock\bin\Debug\Digital Clock.exe
+C:\Users\ZSangLien\source\repos\Digital Clock\Digital Clock\bin\Debug\Digital Clock.pdb
+C:\Users\ZSangLien\source\repos\Digital Clock\Digital Clock\bin\Debug\Digital Clock.xml
+C:\Users\ZSangLien\source\repos\Digital Clock\Digital Clock\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\ZSangLien\source\repos\Digital Clock\Digital Clock\obj\Debug\Digital Clock.vbprojAssemblyReference.cache
+C:\Users\ZSangLien\source\repos\Digital Clock\Digital Clock\obj\Debug\Digital_Clock.Form1.resources
+C:\Users\ZSangLien\source\repos\Digital Clock\Digital Clock\obj\Debug\Digital_Clock.Resources.resources
+C:\Users\ZSangLien\source\repos\Digital Clock\Digital Clock\obj\Debug\Digital Clock.vbproj.GenerateResource.cache
+C:\Users\ZSangLien\source\repos\Digital Clock\Digital Clock\obj\Debug\Digital Clock.vbproj.CoreCompileInputs.cache
+C:\Users\ZSangLien\source\repos\Digital Clock\Digital Clock\obj\Debug\Digital Clock.vbproj.CopyComplete
+C:\Users\ZSangLien\source\repos\Digital Clock\Digital Clock\obj\Debug\Digital Clock.exe
+C:\Users\ZSangLien\source\repos\Digital Clock\Digital Clock\obj\Debug\Digital Clock.xml
+C:\Users\ZSangLien\source\repos\Digital Clock\Digital Clock\obj\Debug\Digital Clock.pdb
+C:\Users\ZSangLien\source\repos\dkmrya02\vb.net\Digital Clock\Digital Clock\bin\Debug\Digital Clock.exe.config
+C:\Users\ZSangLien\source\repos\dkmrya02\vb.net\Digital Clock\Digital Clock\bin\Debug\Digital Clock.exe
+C:\Users\ZSangLien\source\repos\dkmrya02\vb.net\Digital Clock\Digital Clock\bin\Debug\Digital Clock.pdb
+C:\Users\ZSangLien\source\repos\dkmrya02\vb.net\Digital Clock\Digital Clock\bin\Debug\Digital Clock.xml
+C:\Users\ZSangLien\source\repos\dkmrya02\vb.net\Digital Clock\Digital Clock\obj\Debug\Digital Clock.vbprojAssemblyReference.cache
+C:\Users\ZSangLien\source\repos\dkmrya02\vb.net\Digital Clock\Digital Clock\obj\Debug\Digital_Clock.Form1.resources
+C:\Users\ZSangLien\source\repos\dkmrya02\vb.net\Digital Clock\Digital Clock\obj\Debug\Digital_Clock.Resources.resources
+C:\Users\ZSangLien\source\repos\dkmrya02\vb.net\Digital Clock\Digital Clock\obj\Debug\Digital Clock.vbproj.GenerateResource.cache
+C:\Users\ZSangLien\source\repos\dkmrya02\vb.net\Digital Clock\Digital Clock\obj\Debug\Digital Clock.vbproj.CoreCompileInputs.cache
+C:\Users\ZSangLien\source\repos\dkmrya02\vb.net\Digital Clock\Digital Clock\obj\Debug\Digital Clock.vbproj.CopyComplete
+C:\Users\ZSangLien\source\repos\dkmrya02\vb.net\Digital Clock\Digital Clock\obj\Debug\Digital Clock.exe
+C:\Users\ZSangLien\source\repos\dkmrya02\vb.net\Digital Clock\Digital Clock\obj\Debug\Digital Clock.xml
+C:\Users\ZSangLien\source\repos\dkmrya02\vb.net\Digital Clock\Digital Clock\obj\Debug\Digital Clock.pdb

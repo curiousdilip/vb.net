@@ -1,0 +1,26 @@
+C:\Users\ZSangLien\source\repos\Practical Assignment 1\Practical Assignment 1\bin\Debug\Practical Assignment 1.exe.config
+C:\Users\ZSangLien\source\repos\Practical Assignment 1\Practical Assignment 1\bin\Debug\Practical Assignment 1.exe
+C:\Users\ZSangLien\source\repos\Practical Assignment 1\Practical Assignment 1\bin\Debug\Practical Assignment 1.pdb
+C:\Users\ZSangLien\source\repos\Practical Assignment 1\Practical Assignment 1\bin\Debug\Practical Assignment 1.xml
+C:\Users\ZSangLien\source\repos\Practical Assignment 1\Practical Assignment 1\obj\Debug\Practical Assignment 1.vbprojAssemblyReference.cache
+C:\Users\ZSangLien\source\repos\Practical Assignment 1\Practical Assignment 1\obj\Debug\Practical_Assignment_1.Form1.resources
+C:\Users\ZSangLien\source\repos\Practical Assignment 1\Practical Assignment 1\obj\Debug\Practical_Assignment_1.Resources.resources
+C:\Users\ZSangLien\source\repos\Practical Assignment 1\Practical Assignment 1\obj\Debug\Practical Assignment 1.vbproj.GenerateResource.cache
+C:\Users\ZSangLien\source\repos\Practical Assignment 1\Practical Assignment 1\obj\Debug\Practical Assignment 1.vbproj.CoreCompileInputs.cache
+C:\Users\ZSangLien\source\repos\Practical Assignment 1\Practical Assignment 1\obj\Debug\Practical Assignment 1.exe
+C:\Users\ZSangLien\source\repos\Practical Assignment 1\Practical Assignment 1\obj\Debug\Practical Assignment 1.xml
+C:\Users\ZSangLien\source\repos\Practical Assignment 1\Practical Assignment 1\obj\Debug\Practical Assignment 1.pdb
+C:\Users\ZSangLien\source\repos\Practical Assignment 1\Practical Assignment 1\obj\Debug\Practical_Assignment_1.add2no.resources
+C:\Users\ZSangLien\source\repos\Practical Assignment 1\Practical Assignment 1\obj\Debug\Practical_Assignment_1.Form2.resources
+C:\Users\ZSangLien\source\repos\Practical Assignment 1\Practical Assignment 1\obj\Debug\Practical_Assignment_1.greatersmaller.resources
+C:\Users\ZSangLien\source\repos\Practical Assignment 1\Practical Assignment 1\obj\Debug\Practical_Assignment_1.helloworld.resources
+C:\Users\ZSangLien\source\repos\Practical Assignment 1\Practical Assignment 1\obj\Debug\Practical_Assignment_1.sub2no.resources
+C:\Users\ZSangLien\source\repos\Practical Assignment 1\Practical Assignment 1\obj\Debug\Practical_Assignment_1.multiply2no.resources
+C:\Users\ZSangLien\source\repos\Practical Assignment 1\Practical Assignment 1\obj\Debug\Practical_Assignment_1.div2no.resources
+C:\Users\ZSangLien\source\repos\Practical Assignment 1\Practical Assignment 1\obj\Debug\Practical_Assignment_1.mod2no.resources
+C:\Users\ZSangLien\source\repos\Practical Assignment 1\Practical Assignment 1\obj\Debug\Practical_Assignment_1.rainbowelse.resources
+C:\Users\ZSangLien\source\repos\Practical Assignment 1\Practical Assignment 1\obj\Debug\Practical_Assignment_1.monthelse.resources
+C:\Users\ZSangLien\source\repos\Practical Assignment 1\Practical Assignment 1\obj\Debug\Practical_Assignment_1.monthswitch.resources
+C:\Users\ZSangLien\source\repos\Practical Assignment 1\Practical Assignment 1\obj\Debug\Practical_Assignment_1.weekelse.resources
+C:\Users\ZSangLien\source\repos\Practical Assignment 1\Practical Assignment 1\obj\Debug\Practical_Assignment_1.weekswitch.resources
+C:\Users\ZSangLien\source\repos\Practical Assignment 1\Practical Assignment 1\obj\Debug\Practical_Assignment_1.rainbowswitch.resources

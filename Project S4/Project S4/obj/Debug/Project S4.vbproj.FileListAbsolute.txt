@@ -1,0 +1,15 @@
+C:\Users\ZSangLien\source\repos\Project S4\Project S4\bin\Debug\Project S4.exe.config
+C:\Users\ZSangLien\source\repos\Project S4\Project S4\bin\Debug\Project S4.exe
+C:\Users\ZSangLien\source\repos\Project S4\Project S4\bin\Debug\Project S4.pdb
+C:\Users\ZSangLien\source\repos\Project S4\Project S4\bin\Debug\Project S4.xml
+C:\Users\ZSangLien\source\repos\Project S4\Project S4\obj\Debug\Project S4.vbprojAssemblyReference.cache
+C:\Users\ZSangLien\source\repos\Project S4\Project S4\obj\Debug\Project_S4.Form1.resources
+C:\Users\ZSangLien\source\repos\Project S4\Project S4\obj\Debug\Project_S4.Resources.resources
+C:\Users\ZSangLien\source\repos\Project S4\Project S4\obj\Debug\Project S4.vbproj.GenerateResource.cache
+C:\Users\ZSangLien\source\repos\Project S4\Project S4\obj\Debug\Project S4.vbproj.CoreCompileInputs.cache
+C:\Users\ZSangLien\source\repos\Project S4\Project S4\obj\Debug\Project S4.exe
+C:\Users\ZSangLien\source\repos\Project S4\Project S4\obj\Debug\Project S4.xml
+C:\Users\ZSangLien\source\repos\Project S4\Project S4\obj\Debug\Project S4.pdb
+C:\Users\ZSangLien\source\repos\Project S4\Project S4\obj\Debug\Project_S4.Form2.resources
+C:\Users\ZSangLien\source\repos\Project S4\Project S4\obj\Debug\Project_S4.Form3.resources
+C:\Users\ZSangLien\source\repos\Project S4\Project S4\obj\Debug\Project_S4.Form4.resources

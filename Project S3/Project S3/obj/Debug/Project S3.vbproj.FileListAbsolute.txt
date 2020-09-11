@@ -1,0 +1,20 @@
+C:\Users\ZSangLien\source\repos\Project S3\Project S3\bin\Debug\Project S3.exe.config
+C:\Users\ZSangLien\source\repos\Project S3\Project S3\bin\Debug\Project S3.exe
+C:\Users\ZSangLien\source\repos\Project S3\Project S3\bin\Debug\Project S3.pdb
+C:\Users\ZSangLien\source\repos\Project S3\Project S3\bin\Debug\Project S3.xml
+C:\Users\ZSangLien\source\repos\Project S3\Project S3\obj\Debug\Project S3.vbprojAssemblyReference.cache
+C:\Users\ZSangLien\source\repos\Project S3\Project S3\obj\Debug\Project_S3.Form1.resources
+C:\Users\ZSangLien\source\repos\Project S3\Project S3\obj\Debug\Project_S3.Resources.resources
+C:\Users\ZSangLien\source\repos\Project S3\Project S3\obj\Debug\Project S3.vbproj.GenerateResource.cache
+C:\Users\ZSangLien\source\repos\Project S3\Project S3\obj\Debug\Project S3.vbproj.CoreCompileInputs.cache
+C:\Users\ZSangLien\source\repos\Project S3\Project S3\obj\Debug\Project S3.exe
+C:\Users\ZSangLien\source\repos\Project S3\Project S3\obj\Debug\Project S3.xml
+C:\Users\ZSangLien\source\repos\Project S3\Project S3\obj\Debug\Project S3.pdb
+C:\Users\ZSangLien\source\repos\Project S3\Project S3\obj\Debug\Project_S3.Form2.resources
+C:\Users\ZSangLien\source\repos\Project S3\Project S3\obj\Debug\Project_S3.Form3.resources
+C:\Users\ZSangLien\source\repos\Project S3\Project S3\obj\Debug\Project_S3.Form4.resources
+C:\Users\ZSangLien\source\repos\Project S3\Project S3\obj\Debug\Project_S3.Form5.resources
+C:\Users\ZSangLien\source\repos\Project S3\Project S3\obj\Debug\Project_S3.Form6.resources
+C:\Users\ZSangLien\source\repos\Project S3\Project S3\obj\Debug\Project_S3.Form7.resources
+C:\Users\ZSangLien\source\repos\Project S3\Project S3\obj\Debug\Project_S3.Form8.resources
+C:\Users\ZSangLien\source\repos\Project S3\Project S3\obj\Debug\Project_S3.Form9.resources
