@@ -1,0 +1,11 @@
+G:\Documents\GitHub\vb.net\RegistrationForm\RegistrationForm\bin\Debug\RegistrationForm.exe.config
+G:\Documents\GitHub\vb.net\RegistrationForm\RegistrationForm\bin\Debug\RegistrationForm.exe
+G:\Documents\GitHub\vb.net\RegistrationForm\RegistrationForm\bin\Debug\RegistrationForm.pdb
+G:\Documents\GitHub\vb.net\RegistrationForm\RegistrationForm\bin\Debug\RegistrationForm.xml
+G:\Documents\GitHub\vb.net\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.vbprojAssemblyReference.cache
+G:\Documents\GitHub\vb.net\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.Resources.resources
+G:\Documents\GitHub\vb.net\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.vbproj.GenerateResource.cache
+G:\Documents\GitHub\vb.net\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.vbproj.CoreCompileInputs.cache
+G:\Documents\GitHub\vb.net\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.exe
+G:\Documents\GitHub\vb.net\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.xml
+G:\Documents\GitHub\vb.net\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.pdb
